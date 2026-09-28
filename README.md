@@ -7,7 +7,7 @@ July 2023 - July 2025
 ## Project discription
 
 A project to investigate neurophysiological correlates of Post-COVID-19 by the means of EEG.
-
+Additional information (i.e. channel mapping) can be found at https://github.com/christianneumannCAU/EPOC-Kiel
 
 
 ## Contact Person
